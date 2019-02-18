@@ -1,6 +1,8 @@
-title: Internal Communications: Serial Experiments
+---
+title: "Internal Communications: Serial Experiments"
 date: 2016-09-14 23:00:00
-template: post.html
+layout: post
+---
 
 Since a part of the project we are considering involves Arduino-based payloads
 communicating with a central Raspberry Pi-based flight computer, my first

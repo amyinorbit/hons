@@ -1,6 +1,8 @@
-title: Week 5 Roundup
+---
+title: "Week 5 Roundup"
 date: 2017-02-13
-template: post.html
+layout: post
+---
 
 This week was sort of a slow week, especially with other coursework to worry
 about. I have started writing a packet and frame encoder to test data

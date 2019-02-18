@@ -1,6 +1,8 @@
-title: Week 4 Roundup: Literature
+---
+title: "Week 4 Roundup: Literature"
 date: 2016-10-04 18:12:00
-template: post.html
+layout: post
+---
 
 This week I've worked on refining my research question and looking for papers
 that support the project better.

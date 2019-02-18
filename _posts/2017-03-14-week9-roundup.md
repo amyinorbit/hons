@@ -1,6 +1,8 @@
-title: Week 9 Roundup
+---
+title: "Week 9 Roundup"
 date: 2017-03-14
-template: post.html
+layout: post
+---
 
 I've spent the last week setting up (fighting with) the GCC compiler and
 FreeRTOS SDK for the Wemos D1 mini development board (powered by the ESP8266

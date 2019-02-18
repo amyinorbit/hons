@@ -1,6 +1,8 @@
-title: Experiments: AVR, I2C Communications
+---
+title: "Experiments: AVR, I2C Communications"
 date: 2016-09-23 10:00:00
-template: post.html
+template: post
+---
 
 These past two weeks, I've worked on getting I2C working between the Pi and two
 Arduinos. I've also started to look into raw C programming for AVR controllers

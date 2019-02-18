@@ -2,6 +2,7 @@ _site/
 .sass-cache/
 .bundle/
 Gemfile.lock
+vendor
 
 # Windows image file caches
 Thumbs.db

@@ -1,6 +1,8 @@
-title: Week 3 Roundup
+---
+title: "Week 3 Roundup"
 date: 2017-01-26 
-template: post.html
+layout: post
+---
 
 I had a lengthy meeting with Ian today to debrief my plan for the coming weeks
 and iron out some doubts I had about both the project itself and the

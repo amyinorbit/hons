@@ -1,6 +1,8 @@
-title: Week 10 Roundup: Proposal Submission
-template: post.html
+---
+title: "Week 10 Roundup: Proposal Submission"
+layout: post
 date: 2016-11-14
+---
 
 Last week I've submitted the formal project proposal [[pdf file][1]]. it went
 pretty well since Ian wanted us to go over it a few days before deadline, which

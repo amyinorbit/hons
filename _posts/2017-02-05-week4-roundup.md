@@ -1,6 +1,8 @@
-title: Week 4 Roundup: Specifications and FreeRTOS
+---
+title: "Week 4 Roundup: Specifications and FreeRTOS"
 date: 2017-02-05
-template: post.html
+layout: post
+---
 
 This week I've been working (mostly) on writing the specification for the
 AHABus packet radio protocol.

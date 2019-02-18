@@ -1,6 +1,8 @@
-title: Week 6 Roundup: Presentation & Risks
-template: post.html
+---
+title: "Week 6 Roundup: Presentation & Risks"
+layout: post
 date: 2016-10-19
+---
 
 Last Thursday I presented my [project proposal][1] to the rest of the Computing
 degree class. I still have a few weeks to write the formal academic proposal,

@@ -1,6 +1,8 @@
-title: Week 2 Roundup: Back to Work
+---
+title: "Week 2 Roundup: Back to Work"
 date: 2017-01-23
-template: post.html
+layout: post
+---
 
 Last week was the first week back from the holiday break, so most of my work
 was, well, getting back to work. The work left to do on the project spans

@@ -1,6 +1,8 @@
-title: Week 9 Roundup: Receiving Bytes
-template: post.html
+---
+title: "Week 9 Roundup: Receiving Bytes"
+layout: post
 date: 2016-11-07
+---
 
 This week I've been experimenting with dl-fldigi (the radio decoding software
 used by most high-altitude balloon missions). I've established that I'd use

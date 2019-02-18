@@ -1,6 +1,8 @@
-title: Week 8 Roundup: Supervisor Meeting
-template: post.html
+---
+title: "Week 8 Roundup: Supervisor Meeting"
+layout: post
 date: 2016-11-02
+---
 
 This week was my first meeting with Ian as my official supervisor. Since the
 formal project proposal is due in two weeks, we've focused on what should go

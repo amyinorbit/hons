@@ -1,6 +1,8 @@
-title: Week 6 Roundup
+---
+title: "Week 6 Roundup"
 date: 2017-02-20
-template: post.html
+layout: post
+---
 
 This week was mostly spent trying to make sense of dl-fldigi's source code.
 After my experiments [last semester][1] trying to extract the raw bytes decoded

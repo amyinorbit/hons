@@ -1,6 +1,8 @@
-title: Week 2 & 3 Roundup: Aims & Objectives
+---
+title: "Week 2 & 3 Roundup: Aims & Objectives"
 date: 2016-09-26 16:00:00
-template: post.html
+layout: post
+---
 
 The main goal those past two weeks was to work on getting the project's aim and
 objectives down, and start working on the research question. My working title

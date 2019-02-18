@@ -1,6 +1,8 @@
-title: Week 5 Roundup: Methods
+---
+title: "Week 5 Roundup: Methods"
 date: 2016-10-11
-template: post.html
+layout: post
+---
 
 This week, I have started looking into what research methods I will use to
 evaluate the project and the communications bus (which I'm calling AHABus at

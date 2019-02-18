@@ -1,6 +1,8 @@
-title: Week 10 Roundup: FreeRTOS/FCORE
+---
+title: "Week 10 Roundup: FreeRTOS/FCORE"
 date: 2017-03-19
-template: post.html
+layout: post
+---
 
 The project is finally taking shape his week I've started assembling each of the
 building blocks I've designed since September into [FCORE][1] -- Flight Computer

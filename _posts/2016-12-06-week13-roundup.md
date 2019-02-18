@@ -1,6 +1,8 @@
-title: Week 13 Roundup: Feasibility Demo
-template: post.html
+---
+title: "Week 13 Roundup: Feasibility Demo"
+layout: post
 date: 2016-12-06
+---
 
 Last week I had my feasibility demonstration with Ian. The goal was to show
 the preliminary research I've been doing since September. Since we were supposed

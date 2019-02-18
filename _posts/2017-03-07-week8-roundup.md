@@ -1,6 +1,8 @@
-title: Week 8 Roundup
+---
+title: "Week 8 Roundup"
 date: 2017-03-07
-template: post.html
+layout: post
+---
 
 I spent the first few weeks of the semester laying groundwork. This week, I've
 started implementation work on the radio protocol systems (encoder and decoder)

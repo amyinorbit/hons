@@ -1,6 +1,8 @@
-title: Interrupt-Driven RTTY
+---
+title: "Interrupt-Driven RTTY"
 date: 2016-10-25 12:30:00
-template: post.html
+layout: post
+---
 
 The first version of the [RTTY transmission code][1] I wrote for AVR processors
 relies on timers to control the frequency shifts timing. That worked well, but

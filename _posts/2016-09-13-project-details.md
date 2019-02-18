@@ -1,7 +1,7 @@
 ---
-title: Week 1 Roundup: Project Introduction
+title: "Week 1 Roundup: Project Introduction"
 date: 2016-09-13 22:05:00
-template: post.html
+layout: post
 ---
 
 After one week of preliminary research into the four ideas I had, I have decided

@@ -1,6 +1,8 @@
-title: Week 12 Roundup: Preliminary Packet Considerations 
-template: post.html
+---
+title: "Week 12 Roundup: Preliminary Packet Considerations "
+layout: post
 date: 2016-11-30
+---
 
 This week I've started looking a bit closer about the packet & frame design
 process that I'll have to do before I can implement the radio communications
