@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+title_left    : "Space"
+title_right   : "Bytes" # default: ""
+description   : "Research blog on intra-payload and low-power, long-range radio communications applied to High Altitude Balloons and NanoSats. By [Amy Parent](https://amyparent.com) @ Abertay University."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+url           : https://hons.amyparent.com/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
