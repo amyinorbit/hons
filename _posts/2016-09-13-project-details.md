@@ -108,7 +108,7 @@ be split in two parts:
    [main website][ccsds], [space packet standard][ccsds-sp],
    [OSI-style space layers][ccsds-osi].
 
-   [self-intro]: /2016/setting-up.html
+   [self-intro]: /2016/setting-up
    
    [psas-link]: http://psas.pdx.edu/research-notebooks/cubesat-linkbudget/cubesat-linkbudget
    [psas-dxwifi]: http://blog.psas.pdx.edu/2014/10/almost-there/

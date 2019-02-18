@@ -35,4 +35,4 @@ dissertation.
    if there is enough time left, to make sure I could get the important parts
    of the project (Computer Science) done properly first.
    
- [1]: /2016/week-12-roundup-preliminary-packet-considerations.html
+ [1]: /2016/week12-roundup

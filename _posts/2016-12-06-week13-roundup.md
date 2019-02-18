@@ -26,8 +26,8 @@ to show a finite number of "artefacts", I picked:
 
 The four artefacts are available in the demonstration's [GitHub repository][5].
 
- [1]: /2016/interrupt-driven-rtty.html
- [2]: /2016/week9-roundup.html
- [3]: /2016/week12-roundup.html
+ [1]: /2016/interrupt-driven-rtty
+ [2]: /2016/week9-roundup
+ [3]: /2016/week12-roundup
  [4]: /static/files/flightcore-systems.pdf
  [5]: https://github.com/AHABus/feasibility-demo

@@ -81,6 +81,6 @@ to each of them.
         }
     }
 
- [1]: /2016/week-9-roundup-receiving-bytes.html
+ [1]: /2016/week9-roundup
  [2]: https://github.com/AHABus/dl-fldigi/blob/master/src/cw_rtty/rtty.cxx#L517
 

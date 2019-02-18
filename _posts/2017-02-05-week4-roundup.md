@@ -59,6 +59,6 @@ limits.
 
  [1]: https://github.com/ahabus/docs
  [2]: https://ukhas.org.uk/code:rs8encode
- [3]: /2017/week-3-roundup.html
+ [3]: /2017/week3-roundup/
  [4]: http://microelectronics.esa.int/vhdl/pss/PSS-04-106.pdf
  [5]: https://www.wemos.cc/product/d1-mini.html

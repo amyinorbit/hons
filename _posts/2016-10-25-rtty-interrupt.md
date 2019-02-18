@@ -142,6 +142,6 @@ available, to avoid dropping data if the volume is too high.
 Using these few functions, I can transmit text and SSDV images over RTTY without
 completely blocking the main loop. Success!
 
-  [1]: /2016/experiments-rtty-ssdv.html
+  [1]: /2016/rtty-ssdv/
   [img1]: /static/img/2016-10/rtty-state.png
 
